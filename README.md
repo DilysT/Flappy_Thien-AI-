@@ -46,6 +46,11 @@ If you want to integrate AI to play the game:
  [python ai_train.p](https://github.com/DilysT/Flappy_bird_NEAT-Python-/tree/master))
 2. Run your project:
 3. Observe the AI learning to play Flappy Bird!
+4. ## 📷 Preview
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/8dadf2c8-564f-4397-a061-02946b14f683](https://github.com/user-attachments/assets/581e428e-1540-475b-a923-5446f7aa5445)" width="400">
+</p>
+
 
 ## 📄 License
 This project is open-source and available under the MIT License.
